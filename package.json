@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-expressvt",
+  "version": "1.0.0",
+  "description": "template express api typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vspeed21/boilerplate-express-api-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "express",
+    "nodejs",
+    "api",
+    "boilerplate",
+    "template",
+    "plantilla"
+  ],
+  "author": "Victor Torres tikodev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vspeed21/boilerplate-express-api-ts/issues"
+  },
+  "homepage": "https://github.com/vspeed21/boilerplate-express-api-ts#readme"
+}
