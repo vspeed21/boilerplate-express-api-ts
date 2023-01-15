@@ -24,5 +24,14 @@
   "bugs": {
     "url": "https://github.com/vspeed21/boilerplate-express-api-ts/issues"
   },
-  "homepage": "https://github.com/vspeed21/boilerplate-express-api-ts#readme"
+  "homepage": "https://github.com/vspeed21/boilerplate-express-api-ts#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "nodemailer": "^6.9.0"
+  }
 }
