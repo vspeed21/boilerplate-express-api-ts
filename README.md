@@ -21,5 +21,6 @@ Open [http://localhost:4000](http://localhost:4000) with your favorite api teste
 - jsonwebtoken
 - mongoose
 - bcrypt
+- eslint
 
 And its respectives types
