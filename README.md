@@ -3,10 +3,7 @@
 Template to make it easier you to develop your API's in node with express and using typescript.
 
 ## Getting Started
-First clone this repository in your favorite path
-```bash
-git clone https://github.com/vspeed21/boilerplate-express-api-ts.git
-```
+First download the newest version of this repository in the tags section.
 
 Then, in your terminal, run the development server
 ```bash
