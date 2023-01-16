@@ -4,7 +4,10 @@
   "description": "template express api typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "ts-node-dev --files src/index.ts --watch",
+    "build": "npm install && tsc",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
