@@ -14,7 +14,7 @@ npm run dev
 ```
 Open [http://localhost:4000](http://localhost:4000) with your favorite api tester.
 
-### This repository includes
+### This boilerplate includes
 - cors
 - dotenv
 - express
