@@ -1,10 +1,8 @@
 import jwt from 'jsonwebtoken';
-import config from '../environment';
+import environment from '../environment';
 
-function generateJWT(id: string | number) {
-  return jwt.sign({ id }, config.JWT_SECRET, {
-    expiresIn: '1d',
-  });
+function generateJWT(user: any | number) {
+  return jwt.sign({ user }, environment.JWT_SECRET);
 }
 
 export default generateJWT;
