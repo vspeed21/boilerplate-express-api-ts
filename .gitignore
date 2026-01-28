@@ -4,3 +4,10 @@ node_modules/
 # dotenv enviroment variables files
 .env
 *.local
+
+# secrets
+build
+unistore-fcm-.json
+unistore-fcm.json
+unistorefirebase-.json
+unistorefirebase.json
